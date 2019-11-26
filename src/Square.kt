@@ -1,0 +1,1 @@
+class Square(width: Int) : Rectangle(width, width)
